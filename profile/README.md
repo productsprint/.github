@@ -1,7 +1,9 @@
-# join us to build fast!
+# Ditch dead repos. Build real shit. Every two weeks.
 
-## two weeks one product
+## join us to build fast!
 
-### first week only build
+### two weeks one product
 
-### second week only market
+#### first week only build
+
+#### second week only market
